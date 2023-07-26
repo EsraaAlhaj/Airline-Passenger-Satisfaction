@@ -1,0 +1,75 @@
+Airline-Passenger-Satisfaction
+/
+120,000+ airline passengers were surveyed to evaluate their satisfaction with different factors such as cleanliness, 
+comfort, service, and overall experience. The survey also included additional information about each passenger, their flight, 
+and type of travel. The objective of the analysis is to determine which factors contribute to customer satisfaction 
+the most and what causes dissatisfaction.
+
+The data dictionary includes 
+
+unique passenger identifier (ID),
+
+gender, age, type of airline customer (first-time/returning), 
+
+purpose of the flight (business/personal), 
+
+travel class in the airplane for the passenger seat (class), 
+
+flight distance in miles (flight distance), 
+
+flight departure delay in minutes (departure delay), 
+
+flight arrival delay in minutes (arrival delay), 
+
+satisfaction level with the convenience of the flight departure and arrival times from 1 (lowest) to 5 (highest) -0 means "not applicable" (departure and arrival time convenience), 
+s
+satisfaction level with the online booking experience from 1 (lowest) to 5 (highest) - 0 means "not applicable" (ease of online booking), 
+
+satisfaction level with the check-in service from 1 (lowest) to 5 (highest) - 0 means "not applicable" (check-in service),
+
+satisfaction level with the online boarding experience from 1 (lowest) to 5 (highest) - 0 means "not applicable" (online boarding), 
+
+satisfaction level with the gate location in the airport from 1 (lowest) to 5 (highest) - 0 means "not applicable" (gate location),
+
+satisfaction level with the on-boarding service in the airport from 1 (lowest) to 5 (highest) - 0 means "not applicable" (on-board service),
+
+satisfaction level with the comfort of the airplane seat from 1 (lowest) to 5 (highest) - 0 means "not applicable" (seat comfort),
+
+and satisfaction level with the leg room of the airplane seat from 1 (lowest) to 5 highest - 0 means "not applicable" (leg room service)¹.
+
+Cleanliness: Satisfaction level with the cleanliness of the airplane from 1 (lowest) to 5 (highest) - 0 means "not applicable"
+
+Food and Drink: Satisfaction level with the food and drinks on the airplane from 1 (lowest) to 5 (highest) - 0 means "not applicable"
+
+In-flight Service: Satisfaction level with the in-flight service from 1 (lowest) to 5 (highest) - 0 means "not applicable"
+
+In-flight Wifi Service: Satisfaction level with the in-flight Wifi service from 1 (lowest) to 5 (highest) - 0 means "not applicable"
+
+In-flight Entertainment: Satisfaction level with the in-flight entertainment from 1 (lowest) to 5 (highest) - 0 means "not applicable"
+
+Baggage Handling: Satisfaction level with the baggage handling from the airline from 1 (lowest) to 5 (highest) - 0 means "not applicable"
+
+Satisfaction: Overall satisfaction level with the airline (Satisfied/Neutral or unsatisfied)
+
+
+
+Introduction
+
+This report analyzes passenger satisfaction data from an airline company. The data was collected from customer surveys and includes 
+responses from over 120,000 passengers. The objective of the analysis is to identify the factors that impact passenger satisfaction 
+and provide recommendations for improvement.
+
+The data was collected from customer surveys conducted by the airline company. The data was pre-processed and cleaned to remove any 
+invalid or missing data. The variables used in the analysis include age, online boarding, arrival delay, departure delay, arrival and 
+departure convenience, seat comfort, in-flight Wifi, in-flight service, and food. It is assumed that the data is representative of the 
+larger population of the airline's customers.
+
+The results of the analysis suggest that online boarding, in-flight WiFi service, and in-flight entertainment are the key 
+factors that impact passenger satisfaction. Improving these factors could lead to higher passenger satisfaction and increased loyalty.
+
+The report is organized as follows:
+
+The methodology section describes the data collection and analysis methods used.
+The results section presents the findings of the analysis.
+The discussion section discusses the implications of the findings and provides recommendations for improvement.
+The conclusion summarizes the key findings of the report.
