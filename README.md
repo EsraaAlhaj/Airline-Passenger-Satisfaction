@@ -1,7 +1,6 @@
 # Airline-Passenger-Satisfaction
 I conducted an analysis on Airlines Passenger Satsifaction using SQL
 
-dataset : https://drive.google.com/file/d/1aPodQ_BUDRaKEX9qnSRozacfTy8M-T70/view 
 
 Objectives :
 
